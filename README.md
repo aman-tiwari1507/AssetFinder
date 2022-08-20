@@ -12,7 +12,7 @@ The initialization does require the downloading of certain tools:
   
  These are tools in linux, and have their own github repositories for setup, you can have a look at those.
  
-Running the Code :  
-   ! Move into the directory that has the code  
-   !  chmod +x automate.sh  
-   ! ./automate.sh {domain}  
+>Running the Code :  
+>    ! Move into the directory that has the code    
+>    !  chmod +x automate.sh    
+>    ! ./automate.sh {domain}  
